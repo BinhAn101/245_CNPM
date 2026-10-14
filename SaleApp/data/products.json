@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 11",
+    "price": 30000,
+    "cate_id": "1",
+    "image": "https://product.hstatic.net/1000300544/product/iphone-11_3e322e0908624a9586b256635f61420c.jpg"
+  },
+ {
+    "id": 2,
+    "name": "Iphone 13",
+    "price": 20000,
+    "cate_id": "1",
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-13_2_2.jpg"
+  },
+   {
+    "id": 3,
+    "name": "Nitro 5",
+    "price": 50000,
+    "cate_id": "2",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4G3KHEcFloYqL9fSMTTRvLG75jy4xN4o0yZNxGgMWawy70ExXMgcZEH8&s=10"
+  },
+   {
+    "id": 4,
+    "name": "Tablet",
+    "price": 40000,
+    "cate_id": "3",
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSfNXWCGESuwMZ4Cvuzp9qkIJrqYRQj0ukhFn_69_YPZ2-zBhG7RToimJgBD2kWxfnMKTxzo7Tt4-AC6LUU2u1JvpKpd5kLJ2shgHZ-XdCboFTU_WdoPJ9Xlw"
+  },
+  {
+    "id": 5,
+    "name": "Macbook",
+    "price": 20000,
+    "cate_id": "2",
+    "image": "https://bizweb.dktcdn.net/100/444/581/products/gs-007152-feature-74775-jpeg-06f7cd83-fba0-4278-b347-8ff918114faf.jpg?v=1744948261873"
+  }
+]
